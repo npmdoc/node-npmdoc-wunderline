@@ -1,6 +1,6 @@
 # npmdoc-wunderline
 
-#### api documentation for  [wunderline (v4.5.0)](http://wayneashleyberry.github.io/wunderline/)  [![npm package](https://img.shields.io/npm/v/npmdoc-wunderline.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wunderline) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wunderline.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wunderline)
+#### basic api documentation for  [wunderline (v4.5.0)](http://wayneashleyberry.github.io/wunderline/)  [![npm package](https://img.shields.io/npm/v/npmdoc-wunderline.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wunderline) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wunderline.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wunderline)
 
 #### Wunderlist for your command line!
 
